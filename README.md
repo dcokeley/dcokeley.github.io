@@ -10,16 +10,17 @@ Bachelor of Science, Business Administration
 [Google Business Intelligence](https://coursera.org/share/0088e6b48f41bdf6148f2edbcab17f2e)
 
 ## Work Experience
-Data Analyst @ Quontic Bank
-Data Analyst / Developer Mar 2021 – Present
+***Data Analyst / Developer***
+Mar 2021 – Present
 - Engineered and automated a comprehensive reporting suite — encompassing daily, weekly, and monthly KPI and
 transactional reports — using SQL, Snowflake, Power BI/DAX, and Power Automate.
 - Established data quality monitoring frameworks and integrity validation processes within Snowflake, proactively identifying
 and resolving data issues before impacting downstream reporting.
 
-MUFG Union Bank
-Business Systems Analyst Jan 2008 – Mar 2021
-Business Systems Analyst
+MUFG Union Bank  
+***Business Systems Analyst***
+Jan 2008 – Mar 2021
+
 - Architected and deployed a custom CRM application with integrated reporting and forecasting modules, streamlining client
 relationship management workflows across multiple business units
 - Built and maintained executive-level dashboards and operational reports in Tableau, Power BI/DAX, SQL, and Crystal
