@@ -1,5 +1,6 @@
 title: Dennis Cokeley
 #logo:
+logo: ![site logo](/assets/images/computer.jpg)
 description: Data Analyst
 show_downloads: true
 theme: jekyll-theme-minimal
