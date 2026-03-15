@@ -9,4 +9,4 @@ Data Analyst @ Quontic Bank
 
 ### Projects
 ### Data Analysis Sample Project
-![Analysis Sample](https://github.com/dcokeley/SalesDataAnalysis_Sample)
+[Analysis Sample](https://github.com/dcokeley/SalesDataAnalysis_Sample)
