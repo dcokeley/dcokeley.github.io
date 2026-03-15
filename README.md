@@ -1,6 +1,11 @@
 # Data Analyst
 ## dcokeley@gmail.com | (605) 661-1662
 
+## Projects
+### Sales Data Sample Project
+- Analysis of sales data from a fictinonal compnay showcasing Python, Tableau, Github
+- [Sales Data Analysis - Link to Github Repository](https://github.com/dcokeley/SalesDataAnalysis_Sample)
+
 ## Education
 ### University of South Dakota
 Bachelor of Science, Business Administration
@@ -26,14 +31,6 @@ Jan 2008 – Mar 2021
 relationship management workflows across multiple business units
 - Built and maintained executive-level dashboards and operational reports in Tableau, Power BI/DAX, SQL, and Crystal
 Reports, enabling data-driven decision-making across the organization.
-
-## Projects
-### Sales Data Sample Project
-- Analysis of sales data from a fictinonal compnay showcasing Python, Tableau, Github
-- [Sales Data Analysis - Link to Github Repository](https://github.com/dcokeley/SalesDataAnalysis_Sample)
-
-### Project 2 (In Progress)
-- Analysis of sales data from a fictinonal compnay showcasing SQL, Tableau, Github
 
 ## Technical Skills
 **Data & BI Tools:** SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma Jupyter Lab   
