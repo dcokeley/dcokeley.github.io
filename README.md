@@ -36,8 +36,8 @@ Reports, enabling data-driven decision-making across the organization.
 - Analysis of sales data from a fictinonal compnay showcasing SQL, Tableau, Github
 
 ## Technical Skills
-Data & BI Tools: SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma
-Automation & Low-Code: Power Automate, Power Apps, ETL job scheduling
-Programming: DAX, SQL scripting, Python
-Cloud & Databases: Snowflake Data Warehouse, SQL Server 
-Soft Skills: Requirements Gathering, Cross-functional Collaboration, Project Management
+**Data & BI Tools:** SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma
+**Automation & Low-Code:** Power Automate, Power Apps, ETL job scheduling
+**Programming:** DAX, SQL scripting, Python
+**Cloud & Databases:** Snowflake Data Warehouse, SQL Server 
+**Soft Skills:** Requirements Gathering, Cross-functional Collaboration, Project Management
