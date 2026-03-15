@@ -4,7 +4,7 @@
 
 ## Projects
 ### Sales Data Sample Project
-- Analysis of sales data from a fictinonal compnay showcasing Python, Tableau, Github
+- Analysis of sales data from a fictional compnay showcasing Python, Tableau, Github
 - [Sales Data Analysis - Link to Github Repository](https://github.com/dcokeley/SalesDataAnalysis_Sample)
 
 ## Resume
