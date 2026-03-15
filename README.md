@@ -1,4 +1,5 @@
-# Data Analyst
+# Dennis Cokeley
+## Data Analyst
 ## dcokeley@gmail.com | (605) 661-1662
 
 ## Projects
