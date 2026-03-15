@@ -8,8 +8,13 @@ Bachelor of Science, Business Administration
 
 ## Work Experience
 Data Analyst @ Quontic Bank
-- big impact project
-- big impact project
+Data Analyst / Developer Mar 2021 – Present
+- Engineered and automated a comprehensive reporting suite — encompassing daily, weekly, and monthly.
+- Established data quality monitoring frameworks and integrity validation processes within Snowflake, proactively identifying
+and resolving data issues before impacting downstream reporting.
+
+MUFG Union Bank
+Business Systems Analyst Jan 2008 – Mar 2021
 Business Systems Analyst
 - 1
 - 2
@@ -17,3 +22,10 @@ Business Systems Analyst
 ## Projects
 ### Sales Data Sample Project
 [Analysis Sample](https://github.com/dcokeley/SalesDataAnalysis_Sample)
+
+## Technical Skills
+Data & BI Tools: SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma
+Automation & Low-Code: Power Automate, Power Apps, ETL job scheduling
+Programming: DAX, SQL scripting, Python
+Cloud & Databases: Snowflake Data Warehouse, SQL Server 
+Soft Skills: Requirements Gathering, Cross-functional Collaboration, Project Management
