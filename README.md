@@ -24,7 +24,11 @@ Reports, enabling data-driven decision-making across the organization.
 
 ## Projects
 ### Sales Data Sample Project
+- Analysis of sales data from a fictinonal compnay showcasing Python, Tableau, Github
 [Sales Data Analysis](https://github.com/dcokeley/SalesDataAnalysis_Sample)
+
+### Project 2 (In Progress)
+- Analysis of sales data from a fictinonal compnay showcasing SQL, Tableau, Github
 
 ## Technical Skills
 Data & BI Tools: SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma
