@@ -14,6 +14,6 @@ Business Systems Analyst
 - 1
 - 2
 
-### Projects
-### Data Analysis Sample Project
+## Projects
+### Sales Data Sample Project
 [Analysis Sample](https://github.com/dcokeley/SalesDataAnalysis_Sample)
