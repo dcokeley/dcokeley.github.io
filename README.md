@@ -24,7 +24,7 @@ Reports, enabling data-driven decision-making across the organization.
 
 ## Projects
 ### Sales Data Sample Project
-[Analysis Sample](https://github.com/dcokeley/SalesDataAnalysis_Sample)
+[Sales Data Analysis](https://github.com/dcokeley/SalesDataAnalysis_Sample)
 
 ## Technical Skills
 Data & BI Tools: SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma
