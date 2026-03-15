@@ -7,7 +7,8 @@
 - Analysis of sales data from a fictinonal compnay showcasing Python, Tableau, Github
 - [Sales Data Analysis - Link to Github Repository](https://github.com/dcokeley/SalesDataAnalysis_Sample)
 
-## [Resume](Dennis_Cokeley_Resume.pdf)
+## Resume
+[Link to Resume](Dennis_Cokeley_Resume.pdf)
 
 ## Education
 ### University of South Dakota
