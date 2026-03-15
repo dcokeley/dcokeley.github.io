@@ -1,5 +1,3 @@
-# Data Analyst
-
 ## Education
 ### University of South Dakota
 Bachelor of Science, Business Administration
