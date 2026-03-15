@@ -8,4 +8,5 @@ Data Analyst @ Quontic Bank
 - big impact project
 
 ### Projects
-Test
+### Data Analysis Sample Project
+
