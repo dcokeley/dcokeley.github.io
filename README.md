@@ -4,8 +4,9 @@
 
 ## Projects
 ### Sales Data Sample Project
-- Analysis of sales data from a fictional compnay showcasing Python, Tableau, Github
+- Analysis of sales data from a fictional companies showcasing Python, Tableau, Github
 - [Sales Data Analysis - Link to Github Repository](https://github.com/dcokeley/SalesDataAnalysis_Sample)
+- [Pizza Sales Analysis - Link to Github Repository](https://github.com/dcokeley/Pizza_Sales_Analysis_Sample)
 
 ## Resume
 [Link to Resume](Dennis_Cokeley_Resume.pdf)
