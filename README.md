@@ -3,7 +3,7 @@
 ## dcokeley@gmail.com | (605) 661-1662
 
 ## Projects
-### Sales Data Sample Project
+### Sales Data Sample Projects (in progress)
 - Analysis of sales data from a fictional companies showcasing Python, Tableau, Github
 - [Sales Data Analysis - Link to Github Repository](https://github.com/dcokeley/SalesDataAnalysis_Sample)
 - [Pizza Sales Analysis - Link to Github Repository](https://github.com/dcokeley/Pizza_Sales_Analysis_Sample)
