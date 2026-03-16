@@ -38,7 +38,7 @@ relationship management workflows across multiple business units
 Reports, enabling data-driven decision-making across the organization.
 
 ## Technical Skills
-**Data & BI Tools:** SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma Jupyter Lab   
+**Data & BI Tools:** SQL, Snowflake, Power BI/DAX, Tableau, Crystal Reports, Excel, Github, Sigma, Jupyter Labs   
 **Automation & Low-Code:** Power Automate, Power Apps, ETL job scheduling   
 **Programming:** DAX, SQL scripting, Python   
 **Cloud & Databases:** Snowflake Data Warehouse, SQL Server   
