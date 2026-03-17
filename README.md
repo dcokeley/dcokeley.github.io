@@ -1,6 +1,6 @@
 
 ## **Data Analyst**
-## dcokeley@gmail.com | (605) 661-1662
+## [Link Text](mailto:dcokeley@gmail..com | (605) 661-1662
 
 ## Projects
 ### Sales Data Sample Projects (in progress)
